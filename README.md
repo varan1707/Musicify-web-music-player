@@ -6,4 +6,4 @@
 
 ## Short Demo Video of the Website
 
-[demo.webm](https://github.com/varan1707/musicify-web-music-player/assets/85610764/2d9c9317-281c-4fd4-b21b-260c6c36f6f7)
+[Demo](https://github.com/varan1707/musicify-web-music-player/assets/85610764/2d9c9317-281c-4fd4-b21b-260c6c36f6f7)
